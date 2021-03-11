@@ -15,4 +15,4 @@
 - KingParity#7362
 - niekol#6568
 - Dylan Stone#0001
-- Toxic Warrior#4225
+- Toxician#4225
